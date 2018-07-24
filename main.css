@@ -33,3 +33,15 @@ div {
 #violet {
   border-top-color: #d300c9
 }
+p.title, li#item {
+  font-weight: none;
+}  
+body li {
+  background-color: yellow;
+}
+
+.thingy-with-red > span {
+  background-color: red;
+}
+
+}
